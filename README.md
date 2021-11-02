@@ -1,5 +1,9 @@
 # Image model Calling
 
+This repo is a boilerplate to call an object detector model host on [PrevisionIO platform](https://cloud.prevision.io).
+
+You can [train your own model](https://doc.prevision.io/en/latest/studio/experiments/automl/images.html) or use  an [already deployed one](https://doc.prevision.io/en/latest/studio/deployments/index.html#inspect-and-monitor-a-deployed-experiment)
+
 ## SETUP
 
 ``` 
